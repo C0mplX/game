@@ -1,0 +1,106 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #000;
+  color: #fff;
+}
+
+.form-signin{
+  max-width: 500px;
+  padding: 15px;
+  margin: 0 auto;
+  color: #fff;
+}
+
+.form-registrer{
+  max-width: 500px;
+  padding: 15px;
+  margin: 0 auto;
+  color: #fff;
+}
+
+.form-signin .form-registrer .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .form-registrer .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-registrer .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-registrer .form-control:focus {
+  z-index: 2;
+}
+/*form login Style*/
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+/*form signup Style*/
+.form-registrer input[type="text"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0; 
+}
+.form-registrer input[type="email"] {
+  margin-bottom: -1px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.form-registrer #signupPassword {
+  margin-bottom: -1px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.form-registrer #signupPasswordRe {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+
+/*response signup and login*/
+.response{
+  margin-top:10px;
+  font-size: 17px;
+}
+
+.button:active{
+  border: none;
+  background-color: #4E1A10;
+}
+.button:target{
+  background-color: #4E1A10;
+  border: none;
+}
+.button:focus{
+  outline:0 !important;
+  background-color: #4E1A10;
+}
+.button{
+  background-color: #9D3521;
+  border: none;
+}
+
+.button:hover{
+  background-color: #4E1A10;
+}
+
