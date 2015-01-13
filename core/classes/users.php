@@ -4,7 +4,7 @@ include('PassHass.php');
 class Users{
 	
 	/*********
-	*Connect to the database and make that object __contruct and avialable for the hole class
+	*Connect to the database and make that object __contruct and available for the whole class
 	***********/
 	private $db;
 		

@@ -10,7 +10,7 @@
     <meta name="description" content="Lister på den enkle måten. Registrer deg idag">
     <meta name="author" content="Ole Martin skaug"> 
 
-    <title>HicList</title>
+    <title>War Game</title>
     <!--Favicon-->
     <link rel="shortcut icon" href="myfavicon.ico" type="image/x-icon">
     <link rel="icon" href="myfavicon.ico" type="image/x-icon">
